@@ -26,7 +26,7 @@ Project based on 3-layer architecture:
 - Controllers:
 	-  contollers: 
 		- AuthenticationController - registration every user (as admin role too) in Cinema Service application for employment this security and resource component
-		- CinemaHallController 
+		- CinemaHallController - 
 		- CustomGlobalExceptionHandler 
 		- MovieController
 		- MovieSessionController 
