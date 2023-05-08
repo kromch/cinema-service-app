@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/kromch/cinema-service-app/master/cinema-hall-interior.png
+![alt text](https://raw.githubusercontent.com/kromch/cinema-service-app/master/cinema-hall-interior.png)
 # CINEMA SERVICE APP 
 
 This project is a blueprint for future development and deploying as Cinema Service application. 
@@ -23,7 +23,6 @@ Project based on 3-layer architecture:
 - Access registered user to relevant functional endpoints deployed by Cinema Service application
 
 # Project structure
-![alt text](https://raw.githubusercontent.com/kromch/cinema-service-app/master/struct.jpg)
 - Controllers:
 	-  contollers: 
 		- AuthenticationController - registration every user (as admin role too) in Cinema Service application for employment this security and resource component
