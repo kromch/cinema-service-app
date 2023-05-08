@@ -1,0 +1,1 @@
+web: java $JAVA_OPTS -jar target/dependency/spring-security-app-runner.jar --port $PORT target/*.war
