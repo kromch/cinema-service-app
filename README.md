@@ -2,7 +2,7 @@
 # CINEMA SERVICE APP 
 
 This project is a blueprint for future development and deploying as Cinema Service application. 
-Was used Java Spring Framework for using MVC pattern, JavaBeans representation of data models and their lifecycles and relations into IoC container of Application and Security app context, also using JBDC driver techand Hibernate ORM tools for data manipulation.
+Was used Java Spring Framework for using MVC pattern, JavaBeans representation of data models and their lifecycles and relations into IoC container of Application and Security app context, also using JBDC driver stack and Hibernate ORM tools for data manipulation.
 
 Admin (login : password): admin@hotmail.com : AdmiN_dj539fdd23sA
 
@@ -39,7 +39,7 @@ Project based on 3-layer architecture:
 		- CinemaHall model class
 		- Movie model class 
 		- MovieSession model class
-		- Order:
+		- Order model class 
 		- Role model class
 		- ShoppingCart model class 
 		- Ticket model class
